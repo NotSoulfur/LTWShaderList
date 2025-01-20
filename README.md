@@ -7,10 +7,11 @@ LTW is one of a render engine to run PojavLauncher.
 Well, since shaders weren't mostly compatible with LTW, this list is created to list every shaders that compatible with LTW render.
 ## Why Use LTW Instead Of Other Render Engine?
 This Render Is Only One Well Optimized. Zink does support alot of shaders but it's really unoptimized. Not like LTW, which still have bugs and unimplemented render features.
-## Note
+## Indicator
 ✅ No Bugs
 ⚠️ Minor Bugs
 ❗ Major Bug
+## Note
 This list also lists shader that has bugs, but not critical bugs.
 # Shader List
 | Status | Shader Name | Link | Bugs | Last Checked |
