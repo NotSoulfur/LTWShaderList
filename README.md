@@ -19,6 +19,7 @@ Credit doesn't lead to the creator of the shaders, but a person who found it wor
 Since The List Maintainer is only myself. The shaders on list may have undiscovered bugs due to differences of GPUs.
 **Device used:** Poco X6 Pro
 **Chipset:** Mediatek Dimensity 8300 Ultra
+**GPU:** Mali-G615
 # Shader List
 | Status | Shader Name | Link | Bugs | Last Checked | Credit |
 |--------|-------------|------|------|--------------|--------|
