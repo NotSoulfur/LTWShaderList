@@ -13,9 +13,11 @@ This Render Is Only One Well Optimized. Zink does support alot of shaders but it
 ❗ Major Bugs
 ## Note
 This list also lists shader that has bugs, but not critical bugs.
+
+Credit doesn't lead to the creator, but people who found it working on LTW. To respect the shader creator, we put offical links to the list.
 # Shader List
-| Status | Shader Name | Link | Bugs | Last Checked |
-|--------|-------------|------|------|--------------|
-|⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|
-|⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|
-|✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|
+| Status | Shader Name | Link | Bugs | Last Checked | Credit |
+|--------|-------------|------|------|--------------|--------|
+|⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Chillz|
+|⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Chillz|
+|✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Chillz|
