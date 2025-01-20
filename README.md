@@ -15,6 +15,10 @@ This Render Is Only One Well Optimized. Zink does support alot of shaders but it
 This list also lists shader that has bugs, but not critical bugs.
 
 Credit doesn't lead to the creator of the shaders, but a person who found it working on LTW. To respect the shader creator, we put offical links to the list.
+
+Since The List Maintainer is only myself. The shaders on list may have undiscovered bugs due to differences of GPUs.
+**Device used:** Poco X6 Pro
+**Chipset:** Mediatek Dimensity 8300 Ultra
 # Shader List
 | Status | Shader Name | Link | Bugs | Last Checked | Credit |
 |--------|-------------|------|------|--------------|--------|
