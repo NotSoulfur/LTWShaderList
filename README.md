@@ -10,7 +10,7 @@ This Render Is Only One Well Optimized. Zink does support alot of shaders but it
 ## Indicator
 ✅ No Bugs
 ⚠️ Minor Bugs
-❗ Major Bug
+❗ Major Bugs
 ## Note
 This list also lists shader that has bugs, but not critical bugs.
 # Shader List
