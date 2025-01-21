@@ -19,8 +19,8 @@ Since The List Maintainer is only myself. The shaders on list may have undiscove
 **Chipset:** Mediatek Dimensity 8300 Ultra
 **GPU:** Mali-G615
 # Shader List
-| Status | Shader Name | Link | Bugs | Last Checked | Checked On |
+| Status | Shader Name | Link | Bugs | Last Checked | Tested On |
 |--------|-------------|------|------|--------------|--------|
-|⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Mali-G615|
-|⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Mali-G615|
-|✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Mali-G615|
+|⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
+|⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
+|✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Poco X6 Pro|
