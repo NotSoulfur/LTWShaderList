@@ -8,6 +8,9 @@ Well, since shaders weren't mostly compatible with LTW, this list is created to 
 ## Why Use LTW Instead Of Other Render Engine?
 This Render Is Only One Well Optimized. Zink does support alot of shaders but it's really unoptimized. Not like LTW, which still have bugs and unimplemented render features.
 ## Indicator
+AO = Ambient Occlusion
+SSR = Screen Space Reflection, basically reflection like mirror
+
 ✅ No Bugs
 ⚠️ Minor Bugs
 ❗ Major Bugs
@@ -21,6 +24,6 @@ Since The List Maintainer is only myself. The shaders on list may have undiscove
 # Shader List
 | Status | Shader Name | Link | Bugs | Last Checked | Tested On |
 |--------|-------------|------|------|--------------|--------|
-|⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
-|⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
+|⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
+|⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
 |✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Poco X6 Pro|
