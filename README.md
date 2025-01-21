@@ -14,15 +14,13 @@ This Render Is Only One Well Optimized. Zink does support alot of shaders but it
 ## Note
 This list also lists shader that has bugs, but not critical bugs.
 
-Credit doesn't lead to the creator of the shaders, but a person who found it working on LTW. To respect the shader creator, we put offical links to the list.
-
 Since The List Maintainer is only myself. The shaders on list may have undiscovered bugs due to differences of GPUs.
 **Device used:** Poco X6 Pro
 **Chipset:** Mediatek Dimensity 8300 Ultra
 **GPU:** Mali-G615
 # Shader List
-| Status | Shader Name | Link | Bugs | Last Checked | Credit |
+| Status | Shader Name | Link | Bugs | Last Checked | Checked On |
 |--------|-------------|------|------|--------------|--------|
-|⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Chillz|
-|⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Chillz|
-|✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Chillz|
+|⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Mali-G615|
+|⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, Shadow line bug (MALI)|20-01-2025|Mali-G615|
+|✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Mali-G615|
