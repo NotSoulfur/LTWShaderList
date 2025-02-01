@@ -1,8 +1,12 @@
 # LTW Shader List for PojavLauncher
 ## What Is PojavLauncher?
-Search it yourself.
+
+Google it up!
+
 ## What Is LTW?
-LTW is one of a render engine to run PojavLauncher.
+
+[Click here to learn more](https://pojavlauncherteam-github-io.pages.dev/wiki/faq/android/RENDERERS.html)
+
 ## Why This List Were Created?
 Well, since shaders weren't mostly compatible with LTW, this list is created to list every shaders that compatible with LTW render.
 ## Why Use LTW Instead Of Other Render Engine?
