@@ -1,0 +1,16 @@
+name: Shader @Adreno
+title: "[ADRENO] <Shader Name> - <Status>"
+labels: [Adreno]
+description: Report about a shader for adreno GPU
+body:
+  - type: textarea
+    id: textarea-0
+    attributes:
+      value: The shader works fine...
+      label: Enter the shader name + Status
+      description: Describe the shader's status briefly
+  - type: textarea
+    id: textarea-1
+    attributes:
+      label: Device Information
+      description: Enter the Device this shader was used to test on.
