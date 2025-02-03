@@ -1,0 +1,21 @@
+name: Shader @Mali
+title: "[MALI] <Shader Name> - <Status>"
+labels: [Mali]
+description: Report about a shader for Mali GPU
+body:
+  - type: textarea
+    id: textarea-0
+    attributes:
+      value: The shader works fine...
+      label: Enter the shader name + Status
+      description: Describe the shader's status briefly
+  - type: textarea
+    id: textarea-1
+    attributes:
+      label: Device Information
+      description: Enter the Device this shader was used to test on.
+  - type: textarea
+    id: textarea-2
+    attributes:
+      label: Screenshots of the shader
+      description: Provide some screenshots for to report.
