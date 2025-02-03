@@ -14,3 +14,8 @@ body:
     attributes:
       label: Device Information
       description: Enter the Device this shader was used to test on.
+  - type: textarea
+    id: textarea-2
+    attributes:
+      label: Screenshots of the shader
+      description: Provide some screenshots for to report.
